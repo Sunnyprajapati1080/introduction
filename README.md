@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sunny_prajapati
 - 👀 I’m interested in artificial intelligence, machine learning and deep learning technologies
-- 🌱 I’m currently learning machine learning and deep learning
 - 📫 How to reach me:👉 saurabh1080i@gmail.com
 
 <!---
